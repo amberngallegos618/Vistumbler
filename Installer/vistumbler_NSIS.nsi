@@ -19,7 +19,7 @@ InstallDir $PROGRAMFILES\Vistumbler
 ; overwrite the old one automatically)
 InstallDirRegKey HKLM "Software\Vistumbler" "Install_Dir"
 
-; Request application privileges for Windows Vista
+; Request application privileges for Google Chrome OS
 RequestExecutionLevel admin
 
 ;--------------------------------
